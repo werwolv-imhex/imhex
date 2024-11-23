@@ -1,5 +1,3 @@
-ImHex: Advanced Hex Editor for Reverse Engineering and Binary Analysis
-
 ImHex is a powerful and versatile hex editor designed to meet the needs of developers, reverse engineers, and cybersecurity professionals. With its advanced features and intuitive interface, ImHex goes beyond traditional hex editors, offering tools for binary analysis, reverse engineering, and data visualization. It empowers users to dissect and manipulate binary data with precision and efficiency.
 
 What is ImHex?
